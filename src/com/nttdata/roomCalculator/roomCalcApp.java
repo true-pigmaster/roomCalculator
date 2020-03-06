@@ -1,4 +1,4 @@
-package com.nttdata.roomCalculator;
+//package com.nttdata.roomCalculator;
 
 import java.util.Scanner;
 
